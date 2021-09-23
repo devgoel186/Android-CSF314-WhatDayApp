@@ -2,8 +2,6 @@
 
 This simple Android app asks the user for a date in the Gregorian calendar and returns the day of the week for that date.
 
-**NOTE** - I have implemented an additional feature which shows more descriptive messages in place of just days. These changes can be found on the `additional-feature` branch. However, for testing and evaluation, please use this `main` branch.
-
 ### a. Basic Information
 
 **Name of the Project** - What Day App
